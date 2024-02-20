@@ -9,9 +9,11 @@ In Additional Development Board Management URLs, add the following:
 https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json
 
 Tools -> Boards -> Boards Manager
+
 Install M5Stack
 
 Sketch -> Include Libraries -> Manage Libraries
+
 Install M5CoreS3
 
 ## Blue Box
@@ -38,4 +40,5 @@ https://github.com/donfroula/Arduino-Multimode-Blue-Box-/blob/master/blue_box_ma
 
 ## CoreS3
 The M5Stack CoreS3 is an ESP32-S3 based IoT development kit that is packed full of sensors and interactive components.  It is battery powered and features touch screen navigation making it an ideally small and portable device.  More information about the device can be found at the manufacturers website here:
+
 https://shop.m5stack.com/products/m5stack-cores3-esp32s3-lotdevelopment-kit
