@@ -1,6 +1,21 @@
 # M5CoreS3BlueBox
 Blue Box tone generator for the M5Stack CoreS3
 
+## Installing
+In the Arduino IDE:
+File -> Preferences -> Settings
+In Additional Development Board Management URLs, add the following:
+
+https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json
+
+Tools -> Boards -> Boards Manager
+Install M5Stack
+
+Sketch -> Include Libraries -> Manage Libraries
+Install M5CoreS3
+
+## Blue Box
+
 This project is a software implementation of the ProjectMF hardware Blue Box available at https://projectmf.org
 It is capable of emulating historical tones for the following signalling systems, as defined by ProjectMF:
 
