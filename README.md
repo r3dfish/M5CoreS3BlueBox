@@ -1,6 +1,8 @@
 # M5CoreS3BlueBox
 Blue Box tone generator for the M5Stack CoreS3
 
+![CoreS3 Blue Box picture](https://raw.githubusercontent.com/r3dfish/M5CoreS3BlueBox/main/images/CoreS3_Blue_Box.jpeg)
+
 ## Installing
 In the Arduino IDE:
 File -> Preferences -> Settings
